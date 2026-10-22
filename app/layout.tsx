@@ -36,7 +36,7 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;700;900&display=swap" rel="stylesheet" />
-        <meta name="yandex-verification" content="f220e46a40e165be" />
+        <meta name="yandex-verification" content="d1a651b3ccb663a4" />
       </head>
       <body>{children}</body>
     </html>
